@@ -1,0 +1,13 @@
+API -> Application Programming Interface
+Fetch API with get
+Async Await
+Error Handling
+Promise Return
+Post
+Patch
+Delete
+
+GET: https://www.hero-open-api.ml/phone/pixels
+POST: https://www.hero-open-api.ml/phone/add-pixels
+PATCH: https://www.hero-open-api.ml/phone/edit-pixel/:id
+DELETE: https://www.hero-open-api.ml/phone/delete-pixel/:id
